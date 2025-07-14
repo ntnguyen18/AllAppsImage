@@ -1,7 +1,7 @@
 [
   {
     "id": "vn.ntn.boi_bai_tay",
-    "name": "Boi Bai Tay",
+    "name": "Bói Bài Tây",
     "iconPath": "https://raw.githubusercontent.com/ntnguyen18/AllAppsImage/refs/heads/main/boibaitay.png",
     "urlDown": "https://play.google.com/store/apps/details?id=vn.ntn.boi_bai_tay"
   },
@@ -16,5 +16,17 @@
     "name": "Lịch vạn niên",
     "iconPath": "https://raw.githubusercontent.com/ntnguyen18/AllAppsImage/refs/heads/main/lichvannien.png",
     "urlDown": "https://play.google.com/store/apps/details?id=vn.lich.vannien.lichvannien"
-  }  
+  },
+   {
+    "id": "boibai.cunghoangdao.tarot",
+    "name": "Bói bài Tarot",
+    "iconPath": "https://raw.githubusercontent.com/ntnguyen18/AllAppsImage/refs/heads/main/tarot.webp",
+    "urlDown": "https://play.google.com/store/apps/details?id=boibai.cunghoangdao.tarot"
+  },
+  {
+    "id": "vn.ntn.baotoday",
+    "name": "Báo today",
+    "iconPath": "https://raw.githubusercontent.com/ntnguyen18/AllAppsImage/refs/heads/main/baotoday.png",
+    "urlDown": "https://play.google.com/store/apps/details?id=vn.ntn.baotoday"
+  }
 ]
