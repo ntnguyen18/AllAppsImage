@@ -10,5 +10,11 @@
     "name": "Xếp hình động vật",
     "iconPath": "https://raw.githubusercontent.com/ntnguyen18/AllAppsImage/refs/heads/main/puzzle-for-kid.png",
     "urlDown": "https://play.google.com/store/apps/details?id=vn.game.kidspuzzle"
+  },
+   {
+    "id": "vn.lich.vannien.lichvannien",
+    "name": "Lịch vạn niên",
+    "iconPath": "https://raw.githubusercontent.com/ntnguyen18/AllAppsImage/refs/heads/main/lichvannien.png",
+    "urlDown": "https://play.google.com/store/apps/details?id=vn.lich.vannien.lichvannien"
   }  
 ]
