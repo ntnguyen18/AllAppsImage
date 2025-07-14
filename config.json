@@ -1,7 +1,7 @@
 [
   {
     "id": "vn.ntn.boi_bai_tay",
-    "name": "Bói Bài Tây",
+    "name": "Bói bài tây",
     "iconPath": "https://raw.githubusercontent.com/ntnguyen18/AllAppsImage/refs/heads/main/boibaitay.png",
     "urlDown": "https://play.google.com/store/apps/details?id=vn.ntn.boi_bai_tay"
   },
@@ -19,7 +19,7 @@
   },
    {
     "id": "boibai.cunghoangdao.tarot",
-    "name": "Bói bài Tarot",
+    "name": "Bói bài tarot",
     "iconPath": "https://raw.githubusercontent.com/ntnguyen18/AllAppsImage/refs/heads/main/tarot.webp",
     "urlDown": "https://play.google.com/store/apps/details?id=boibai.cunghoangdao.tarot"
   },
